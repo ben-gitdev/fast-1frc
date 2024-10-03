@@ -1,5 +1,5 @@
 # fast-1frc
-implementation of fast single image Fourier ring correlation based on the paper
+Implementation of fast single image Fourier ring correlation based on the paper
 Single image Fourier ring correlation by Bernd Rieger et. al.
 https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-12-21767&id=551322
 with massive speed improvement.
